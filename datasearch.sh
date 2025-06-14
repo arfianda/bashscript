@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # ===================================================================
-# Script Name: se.sh
+# Script Name: datasearch.sh
 # Description: A tool to search for active users, process log files,
 #              and find text patterns in files.
-# Author:      (Your Name)
+# Author:      (Arfianda Firsta Satritama)
 # Date:        June 15, 2025
 # ===================================================================
 
